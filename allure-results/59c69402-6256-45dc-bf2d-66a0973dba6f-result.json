@@ -1,0 +1,1 @@
+{"name": "Создание заказа без ингредиентов", "status": "skipped", "start": 1749682432146, "stop": 1749682432146, "uuid": "226adcfe-a6fe-4e45-ab98-fecb2532130c", "testCaseId": "eb1a295e1534d6c2f1f3f67ab0debe88", "fullName": "tests.test_order.TestCreateOrder#test_create_order_without_ingredients_fails"}

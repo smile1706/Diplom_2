@@ -1,0 +1,5 @@
+johnsonsarah@yandx.ru #X9kDUgt
+
+[DEBUG FIXTURE] Тип 'register_body' ДО yield: <class 'dict'>
+[DEBUG FIXTURE] Значение 'register_body' ДО yield: {'email': 'johnsonsarah@yandx.ru', 'password': '#X9kDUgt', 'name': 'aanderson'}
+Пользователь johnsonsarah@yandx.ru #X9kDUgt с токеном Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NGM4MzdhOWVkMjgwMDAxYjYxZGQ5YiIsImlhdCI6MTc0OTg0NDg2MCwiZXhwIjoxNzQ5ODQ2MDYwfQ.lLdkly-0cNov7-E59gAdMhkhrlu-DKZAT7BSejoJQBQ удален
