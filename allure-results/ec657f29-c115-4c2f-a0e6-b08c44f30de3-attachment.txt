@@ -1,0 +1,5 @@
+shannon68@yandx.ru C+5Muwg!
+
+[DEBUG FIXTURE] Тип 'register_body' ДО yield: <class 'dict'>
+[DEBUG FIXTURE] Значение 'register_body' ДО yield: {'email': 'shannon68@yandx.ru', 'password': 'C+5Muwg!', 'name': 'victor22'}
+Пользователь shannon68@yandx.ru C+5Muwg! с токеном Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NGM4ODNlOWVkMjgwMDAxYjYxZGU2MyIsImlhdCI6MTc0OTg0NjA4MCwiZXhwIjoxNzQ5ODQ3MjgwfQ.vFhXoIPipWtSnNZl4EPEdsp5sCmWGQeHKe1IgDL0eik удален

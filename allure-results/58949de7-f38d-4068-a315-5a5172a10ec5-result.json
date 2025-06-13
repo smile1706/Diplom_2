@@ -1,0 +1,1 @@
+{"name": "Создание заказа с неверным хешем ингредиентов", "status": "skipped", "start": 1749682523141, "stop": 1749682523141, "uuid": "d066db20-d8bb-4169-834a-2bde0d5caac6", "testCaseId": "5e3a2c2ec7bf599bc1af79f1368af773", "fullName": "tests.test_order.TestCreateOrder#test_create_order_with_incorrect_ingredients_hash_fails"}
